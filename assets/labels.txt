@@ -1,0 +1,5 @@
+0 Alternaria
+1 Anthracnose
+2 Aspergillus
+3 Healphy
+4 Lasiodiplodia
